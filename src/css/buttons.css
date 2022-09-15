@@ -1,0 +1,10 @@
+.task-list__btn {
+    width: 36px;
+    height: 36px;
+    color: #000;
+    background-color: white;
+    border: solid 1px #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

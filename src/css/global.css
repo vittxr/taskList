@@ -1,0 +1,18 @@
+main {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.task-list__section {
+    box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.5);
+    border-radius: 12px;
+    padding: 2rem 0.5rem
+}
+
+.row {
+    margin-left: 0 !important;
+    padding-left: 0 !important
+}
